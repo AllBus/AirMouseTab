@@ -119,7 +119,7 @@
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="labelIp.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 64</value>
+    <value>134, 84</value>
   </data>
   <data name="labelIp.Size" type="System.Drawing.Size, System.Drawing">
     <value>75, 160</value>
@@ -128,7 +128,7 @@
     <value>IP-адрес</value>
   </data>
   <data name="labelPIN.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 256</value>
+    <value>132, 276</value>
   </data>
   <data name="labelPIN.Size" type="System.Drawing.Size, System.Drawing">
     <value>77, 32</value>
@@ -146,7 +146,7 @@
     <value>Сгенерировать</value>
   </data>
   <data name="labelPort.Location" type="System.Drawing.Point, System.Drawing">
-    <value>161, 224</value>
+    <value>161, 244</value>
   </data>
   <data name="labelPort.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 32</value>
@@ -156,6 +156,22 @@
   </data>
   <data name="buttonDefaultPort.Text" xml:space="preserve">
     <value>По умолчанию</value>
+  </data>
+  <data name="labelIPInfo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 120</value>
+  </data>
+  <data name="labelIPInfo.Text" xml:space="preserve">
+    <value>Выберите первый из предложенных адресов. Если не удаётся подключиться выберите другой
+.</value>
+  </data>
+  <data name="labelHeader.Size" type="System.Drawing.Size, System.Drawing">
+    <value>818, 60</value>
+  </data>
+  <data name="labelHeader.Text" xml:space="preserve">
+    <value>Программа предназначена для управления компьютером через Wi-Fi с помощью мобильного устройства.
+Введите IP-адрес, порт и ПИН-код в программу на вашем смартфоне или планшете.
+
+</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
