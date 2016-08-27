@@ -123,7 +123,7 @@
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="editPIN.Location" type="System.Drawing.Point, System.Drawing">
-    <value>215, 259</value>
+    <value>215, 279</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="editPIN.MaxLength" type="System.Int32, mscorlib">
@@ -154,7 +154,7 @@
     <value>Right</value>
   </data>
   <data name="labelIp.Location" type="System.Drawing.Point, System.Drawing">
-    <value>124, 64</value>
+    <value>124, 84</value>
   </data>
   <data name="labelIp.Size" type="System.Drawing.Size, System.Drawing">
     <value>85, 160</value>
@@ -187,7 +187,7 @@
     <value>Right</value>
   </data>
   <data name="labelPIN.Location" type="System.Drawing.Point, System.Drawing">
-    <value>174, 256</value>
+    <value>174, 276</value>
   </data>
   <data name="labelPIN.Size" type="System.Drawing.Size, System.Drawing">
     <value>35, 32</value>
@@ -220,7 +220,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="buttonConnect.Location" type="System.Drawing.Point, System.Drawing">
-    <value>215, 291</value>
+    <value>215, 311</value>
   </data>
   <data name="buttonConnect.Size" type="System.Drawing.Size, System.Drawing">
     <value>418, 52</value>
@@ -250,7 +250,7 @@
     <value>20</value>
   </data>
   <data name="listIp.Location" type="System.Drawing.Point, System.Drawing">
-    <value>215, 67</value>
+    <value>215, 87</value>
   </data>
   <data name="listIp.Size" type="System.Drawing.Size, System.Drawing">
     <value>418, 154</value>
@@ -310,7 +310,7 @@
     <value>Fill</value>
   </data>
   <data name="buttonGeneratePIN.Location" type="System.Drawing.Point, System.Drawing">
-    <value>639, 259</value>
+    <value>639, 279</value>
   </data>
   <data name="buttonGeneratePIN.Size" type="System.Drawing.Size, System.Drawing">
     <value>206, 26</value>
@@ -340,7 +340,7 @@
     <value>Right</value>
   </data>
   <data name="labelPort.Location" type="System.Drawing.Point, System.Drawing">
-    <value>171, 224</value>
+    <value>171, 244</value>
   </data>
   <data name="labelPort.Size" type="System.Drawing.Size, System.Drawing">
     <value>38, 32</value>
@@ -370,7 +370,7 @@
     <value>Fill</value>
   </data>
   <data name="editPort.Location" type="System.Drawing.Point, System.Drawing">
-    <value>215, 227</value>
+    <value>215, 247</value>
   </data>
   <data name="editPort.MaxLength" type="System.Int32, mscorlib">
     <value>5</value>
@@ -397,7 +397,7 @@
     <value>Fill</value>
   </data>
   <data name="buttonDefaultPort.Location" type="System.Drawing.Point, System.Drawing">
-    <value>639, 227</value>
+    <value>639, 247</value>
   </data>
   <data name="buttonDefaultPort.Size" type="System.Drawing.Size, System.Drawing">
     <value>206, 26</value>
@@ -424,16 +424,16 @@
     <value>True</value>
   </data>
   <data name="labelIPInfo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>639, 64</value>
+    <value>639, 84</value>
   </data>
   <data name="labelIPInfo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>203, 100</value>
+    <value>202, 80</value>
   </data>
   <data name="labelIPInfo.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
   </data>
   <data name="labelIPInfo.Text" xml:space="preserve">
-    <value>Выберите первый из предложенных адресов. Если не удаётся подключиться выберите другой</value>
+    <value>Choose the first of the offered address. If you can not connect choose another variant.</value>
   </data>
   <data name="&gt;&gt;labelIPInfo.Name" xml:space="preserve">
     <value>labelIPInfo</value>
@@ -517,14 +517,15 @@
     <value>4, 4, 4, 4</value>
   </data>
   <data name="labelHeader.Size" type="System.Drawing.Size, System.Drawing">
-    <value>818, 40</value>
+    <value>604, 60</value>
   </data>
   <data name="labelHeader.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
   </data>
   <data name="labelHeader.Text" xml:space="preserve">
-    <value>Программа предназначена для управления компьютером через Wi-Fi с помощью мобильного устройства.
-Введите перечисленные ниже значения на смартфоне или планшете.
+    <value>The program is designed to manage your computer via Wi-Fi from your mobile device.
+Enter IP-address, port and PIN in our programm on your smartphone or tablet.
+
 </value>
   </data>
   <data name="&gt;&gt;labelHeader.Name" xml:space="preserve">

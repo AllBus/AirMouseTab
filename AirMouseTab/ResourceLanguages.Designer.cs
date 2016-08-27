@@ -98,7 +98,7 @@ namespace AirMouseTab {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Выберите первый из предложенных адресов. Если не удаётся подключиться выберите другой.
+        ///   Ищет локализованную строку, похожую на Выберите первый из предложенных адресов. Если не удаётся подключиться выберите другой..
         /// </summary>
         internal static string labelIpInfo {
             get {
@@ -125,7 +125,7 @@ namespace AirMouseTab {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Перезапустите программу, чтобы изменения вступили в силу..
+        ///   Ищет локализованную строку, похожую на Restart the application to use the selected language..
         /// </summary>
         internal static string messageChangeLanguage {
             get {
@@ -134,7 +134,7 @@ namespace AirMouseTab {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Invalid value for the PIN code. Choose from a range of 100,000 to 999,000,000.
+        ///   Ищет локализованную строку, похожую на Invalid value for the PIN code. Choose from a range of 100,000 to 999,000,000..
         /// </summary>
         internal static string messageErrorPin {
             get {
@@ -143,7 +143,7 @@ namespace AirMouseTab {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Invalid port. Choose from a range of 1024 to 65535.
+        ///   Ищет локализованную строку, похожую на Invalid port. Choose from a range of 1024 to 65535..
         /// </summary>
         internal static string messageErrorPort {
             get {

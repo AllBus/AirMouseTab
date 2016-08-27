@@ -131,7 +131,7 @@
     <value>IP-адрес</value>
   </data>
   <data name="labelIpInfo" xml:space="preserve">
-    <value>Выберите первый из предложенных адресов. Если не удаётся подключиться выберите другой</value>
+    <value>Выберите первый из предложенных адресов. Если не удаётся подключиться выберите другой.</value>
   </data>
   <data name="labelPIN" xml:space="preserve">
     <value>ПИН-код</value>
@@ -140,7 +140,7 @@
     <value>Порт</value>
   </data>
   <data name="messageChangeLanguage" xml:space="preserve">
-    <value>Перезапустите программу, чтобы изменения вступили в силу.</value>
+    <value>Перезапустите программу, чтобы использовать выбранный язык.</value>
   </data>
   <data name="messageErrorPin" xml:space="preserve">
     <value>Недопустимое значение для PIN кода. Выберите из диапазона от 100000 до 999000000</value>

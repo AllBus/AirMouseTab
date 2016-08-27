@@ -131,7 +131,7 @@
     <value>IP address</value>
   </data>
   <data name="labelIpInfo" xml:space="preserve">
-    <value>Выберите первый из предложенных адресов. Если не удаётся подключиться выберите другой</value>
+    <value>Выберите первый из предложенных адресов. Если не удаётся подключиться выберите другой.</value>
   </data>
   <data name="labelPIN" xml:space="preserve">
     <value>PIN</value>
@@ -140,13 +140,13 @@
     <value>Port</value>
   </data>
   <data name="messageChangeLanguage" xml:space="preserve">
-    <value>Перезапустите программу, чтобы изменения вступили в силу.</value>
+    <value>Restart the application to use the selected language.</value>
   </data>
   <data name="messageErrorPin" xml:space="preserve">
-    <value>Invalid value for the PIN code. Choose from a range of 100,000 to 999,000,000</value>
+    <value>Invalid value for the PIN code. Choose from a range of 100,000 to 999,000,000.</value>
   </data>
   <data name="messageErrorPort" xml:space="preserve">
-    <value>Invalid port. Choose from a range of 1024 to 65535</value>
+    <value>Invalid port. Choose from a range of 1024 to 65535.</value>
   </data>
   <data name="stateConnect" xml:space="preserve">
     <value>Connect</value>
